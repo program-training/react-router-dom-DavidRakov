@@ -1,1 +1,13 @@
+p {
+  font-size: x-large;
+}
 
+.ButtonElement {
+  border: solid;
+  margin: 5px;
+  width: 400px;
+}
+
+.load {
+  font-size: xx-large;
+}
